@@ -90,3 +90,15 @@
 #identity-box {
 	padding-inline-start: 4px !important;
 }
+
+.urlbar-input-container,
+.urlbar-input,
+.searchbar-search-icon {
+  padding-bottom 100px;
+  transform: translateY(-2px);
+}
+
+#urlbar,
+#searchbar {
+  margin-bottom: -5px;
+}
